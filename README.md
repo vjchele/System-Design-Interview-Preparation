@@ -1,11 +1,5 @@
-# SYSTEM DESIGN PREPARATION
-* How to prepare for and answer system design questions
-
-## Objective
-*Learning about and implementing large-scale distributed system is not easy. I do not want to give the impression that it's something that can be learnt in a month.* 
-What this repository aims to achieve, is for software engineers and students to get a rough idea of how the thought process of designing a large scale works and how big companies have managed to solve really hard problems. Along with that, there is a recent trend for companies to have an open-ended interview with system design questions, which is at times hard for engineers of all levels if they haven't gotten the opportunity to work on such systems themselves. 
-
-This is a collection of links/documents for the following use cases:
+# SYSTEM DESIGN
+This is a collection of topics and links to prepare for System design interviews:
 a) Prepare for a system design or open-ended rounds.
 b) Learn more about how large-scale systems work and thought process of designing a new system.
 
