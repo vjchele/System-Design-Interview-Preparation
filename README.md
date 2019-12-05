@@ -27,6 +27,7 @@ Feel free to go through other lectures if needed.
 * Gaurav Sen - playlist for System design - (Ref: https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * Tushar Roy - Preparation for System design - (Ref: https://www.youtube.com/watch?v=UzLMhqg3_Wc)
 * Narendra L - TechDummies - (Ref: https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+* Anatomy of System Design - (Ref: https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 
 ## <a name='myapproach'>How to approach the system design questions in interviews</a> (Ref: https://github.com/shashank88/system_design)
 
