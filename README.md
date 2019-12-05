@@ -28,6 +28,8 @@ For a very broad overview please go through these lectures, really useful (Ref: 
 * Narendra L - TechDummies - (Ref: https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 * Anatomy of System Design - (Ref: https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
 * Walking through System Design - (Ref: https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
+* More System Design links- (Ref: https://github.com/checkcheckzz/system-design-interview#toc)
+
 
 ## <a name='myapproach'>How to approach the system design questions in interviews</a> (Ref: https://github.com/shashank88/system_design)
 
