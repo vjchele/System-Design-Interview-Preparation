@@ -9,7 +9,7 @@ For a very broad overview please go through these lectures, really useful (Ref: 
 
 * [david huffman's talk , scaling up talk](https://www.udacity.com/course/web-development--cs253) ([Youtube link](https://www.youtube.com/watch?v=pjNTgULVVf4&list=PLVi1LmRuKQ0NINQfjKLVen7J2lZFL35wP&index=1))
 
-* [scalability for dummies](http://www.lecloud.net/tagged/scalability)
+* [Scalability for dummies](http://www.lecloud.net/tagged/scalability)
 
 * [Designing data intensive applications](https://github.com/sjtuhjh/appdocs/blob/master/BooksAndPapers/GeneralPapers/Designing%20Data-Intensive%20Applications.pdf) 
 
