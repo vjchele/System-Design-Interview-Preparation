@@ -1,5 +1,5 @@
 # SYSTEM DESIGN PREPARATION
-Here's a list of links and references that all help one prepare for System design interviews
+Here's a list of links and references that could help in preparing for System design interviews. I have tried to compile a working list from various sources. Good Luck!
 
 
 ## <a name='start'> Start Here </a> 
