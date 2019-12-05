@@ -50,6 +50,7 @@ These are the steps to go through in the interviews:
 * g) After I have my components in place, what I generally try to do is look for minor optimization in various places according to the use-cases, various tradeoffs that will help in better scaling in 99% cases.
 * h) [Scaling out or up]  (http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
 * i) Check with the interviewer is there any other special case he is looking to solve? Also, it really helps if you know about the company you are interviewing with, what its architecture is, what will the interviewer have more interest in based on the company and what he works on? 
+* j) Some good answers on Quora - (Ref: https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
 
 ## A collection of topics to enhance the breadth of knowlegde (Ref https://www.mariogerard.com/interview-questions-for-a-technical-program-manager-tpm/)
 
