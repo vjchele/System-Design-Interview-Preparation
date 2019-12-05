@@ -6,7 +6,6 @@ Here's a list of links and references that could help in preparing for System de
 
 For a very broad overview please go through these lectures, really useful (Ref: https://github.com/shashank88/system_design):
 * [david malans cs75 scalability talk](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
-Feel free to go through other lectures if needed. 
 
 * [david huffman's talk , scaling up talk](https://www.udacity.com/course/web-development--cs253) ([Youtube link](https://www.youtube.com/watch?v=pjNTgULVVf4&list=PLVi1LmRuKQ0NINQfjKLVen7J2lZFL35wP&index=1))
 
