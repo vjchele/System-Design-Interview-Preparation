@@ -77,6 +77,9 @@ These are the steps to go through in the interviews:
 
 ## Miscellaneous
 * Topics Every Computer Science Engineer should know (Ref: http://matt.might.net/articles/what-cs-majors-should-know/)
+* What Every Web developer should know about Networking (Ref: High Performance
+Browser Networking)
 * Numbers Every Programmer should know (Ref: https://gist.github.com/jboner/2841832)
+
 
 
